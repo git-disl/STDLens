@@ -5,3 +5,6 @@ Federated Learning (FL) has been gaining popularity as a collaborative learning 
 
 This repository contains the source code for the following paper:
 * Ka-Ho Chow, Ling Liu, Wenqi Wei, Fatih Ilhan, and Yanzhao Wu, "STDLens: Model Hijacking-resilient Federated Learning for Object Detection," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, Jun. 18-22, 2023.
+
+## Installation and Dependencies
+The source code will be released soon.
